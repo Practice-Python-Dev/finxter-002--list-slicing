@@ -1,6 +1,6 @@
-#--------------------
+#------------------------------
 # PYTHON LIST METHODS
-#--------------------
+#------------------------------
 
 # lst.append(x) - Appends element x to the lst
 fruits = ['apples', 'oranges', 'kiwis', 'grapefruit', 'watermelon', 'bananas', 'canteloupe']
@@ -72,9 +72,3 @@ print(fruits, '\n')
 #lst.sort() - Sort the elements in the list in ascending order (alphabetical)
 fruits.sort()
 print(fruits, '\n')
-
-
-
-
-
-print('\n\n')
