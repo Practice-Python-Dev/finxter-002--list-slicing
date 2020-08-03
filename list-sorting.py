@@ -1,6 +1,6 @@
-#--------------------
-#SORTING
-#--------------------
+#------------------------------
+# SORT LISTS
+#------------------------------
 
 #lst.sort() - Sorts a list elements in ascending order
 #lst.sort(reverse=True) - Sorts a list in descending order
