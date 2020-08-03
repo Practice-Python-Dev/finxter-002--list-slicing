@@ -1,6 +1,6 @@
-#--------------------
+#------------------------------
 # LIST SLICING
-#--------------------
+#------------------------------
 
 # Slicing dives deeper than indexing - You can retrive substrings within an index range
 # Note 'slice' doesn't mean 'remove' - We are copying a portion of something...
