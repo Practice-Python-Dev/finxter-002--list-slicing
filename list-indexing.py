@@ -1,6 +1,6 @@
-#--------------------
-#INDEX BY VALUE
-#--------------------
+#------------------------------
+# INDEX BY VALUE
+#------------------------------
 
 #lst.index(value)
     # Method *returns the index* of the "value argument" (position of number)
